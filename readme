@@ -1,0 +1,4 @@
+The project's title is Escape From Planet X. It is a platformer game in which the player tries to reach the end while dodging meteors. It generates a new random terrain each time it is run. It uses CMU graphics and PIL for images. Run the platformerv1.py file to play the game. 
+Citations for the images used include:
+https://craftpix.net/download/26204/
+https://www.clipartmax.com/so/asteroid-clip-art/ 
